@@ -1,5 +1,5 @@
-# First-Projects-
-Just some of the first python programs I made. These programs are easy to understand, and don't require any special libraries. 
+# First-Projects
+- Just some of the first python programs I made. These programs are easy to understand, and don't require any special libraries. 
 
 
 ## Crapjack.py
@@ -39,4 +39,4 @@ Just some of the first python programs I made. These programs are easy to unders
 
 ###### Simple checker to see if your word is a palindrome.
 
-  - There shouldn't be anythin wrong.
+  - There shouldn't be anything wrong.
