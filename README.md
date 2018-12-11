@@ -24,7 +24,14 @@
 ###### Game that lets you play 3 different mad libs stories.
 
   - There shouldn't be anything wrong. 
-  
+
+
+## Palindrome.py 
+
+###### Simple checker to see if your word is a palindrome.
+
+  - There shouldn't be anything wrong.
+
 
 ## Password.py 
 
@@ -35,8 +42,3 @@
   
   - Password can be 1-7 characters in length. Password can contain a-z, A-Z, 0-9, and !, #, ?, @, -, +.
   
-## Palindrome.py 
-
-###### Simple checker to see if your word is a palindrome.
-
-  - There shouldn't be anything wrong.
