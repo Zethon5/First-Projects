@@ -34,3 +34,9 @@ Just some of the first python programs I made. These programs are easy to unders
   possible.
   
   - Password can be 1-7 characters in length. Password can contain a-z, A-Z, 0-9, and !, #, ?, @, -, +.
+  
+## Palindrome.py 
+
+###### Simple checker to see if your word is a palindrome.
+
+  - There shouldn't be anythin wrong.
